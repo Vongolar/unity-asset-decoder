@@ -1,4 +1,4 @@
-module github/Vongolar/unity-asset-decoder
+module github.com/Vongolar/unity-asset-decoder
 
 go 1.16
 
